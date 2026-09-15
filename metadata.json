@@ -1,0 +1,7 @@
+{
+  "name": "WanderCraft - AI Travel Planner",
+  "description": "Discover destinations, plan day-by-day itineraries, track travel budgets, explore maps and weather, and receive intelligent AI travel recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
